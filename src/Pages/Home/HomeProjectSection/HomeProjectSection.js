@@ -28,7 +28,7 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                        <Link to='/' 
+                        <Link to='/bsarees' 
                         className="btn">Explore more</Link>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                    <Link to='/' 
+                    <Link to='/doctorg' 
                         className="btn">Explore more</Link>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                    <Link to='/' 
+                    <Link to='/brainyhub' 
                         className="btn">Explore more</Link>
                     </div>
                 </div>
