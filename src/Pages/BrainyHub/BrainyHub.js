@@ -12,14 +12,14 @@ const BrainyHub = () => {
             <div className='mt-10'>
                 <p 
                 className='text-center text-3xl font-bold text-blue-800 my-10'
-                >Doctor G</p>
+                >The Brainy Hub</p>
             </div>
             <div className='grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
                 <div className="card bg-base-100 shadow-xl">
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/DtXwNkN/brainyhub1.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>In this home page, if you click the register or login button to explore more and get more services</li>
@@ -46,7 +46,7 @@ const BrainyHub = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/q0LNRRt/brainyhub2.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>If an user sign up or sign in, and select a 'go' button, the user will see all the services.</li>
@@ -71,7 +71,7 @@ const BrainyHub = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/ZHCWx6w/brainyhub3.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>User can enroll a course to be skillful.</li>

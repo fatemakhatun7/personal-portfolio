@@ -19,7 +19,7 @@ const Bsarees = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/6YDGhwy/bsarees1.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>In this home page, if you click the join us button, it will provide you two options (sign in and sign up) to explore more and get more services</li>
@@ -45,7 +45,7 @@ const Bsarees = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/zPBnShK/bsarres2.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>If an user sign up or sign in, and select a 'see more' button from category section , the user will see the selected category based product in a different route.</li>
@@ -71,7 +71,7 @@ const Bsarees = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/3MXn0Pw/bsarees3.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>A registered user the dashboard button in the navbar.</li>

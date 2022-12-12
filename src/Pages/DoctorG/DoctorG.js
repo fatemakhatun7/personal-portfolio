@@ -19,7 +19,7 @@ const DoctorG = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/BfBSRMn/doctorg1.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>In this home page, if you click the Get started button, it will provide you two options (sign in and sign up) to explore more and get more services</li>
@@ -47,7 +47,7 @@ const DoctorG = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/rmymZR2/doctorg2.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>If an user sign up or sign in, and select a 'see all' button, the user will see all the categories.</li>
@@ -72,7 +72,7 @@ const DoctorG = () => {
                     <figure className="px-10 pt-10">
                         <img src="https://i.ibb.co/2SDr8VF/doctorg3.jpg" alt="" className="rounded-xl h-44 hover:scale-125 transition-all duration-500 cursor-pointer" />
                     </figure>
-                    <div className="card-body mx-10 mb-3 hidden sm:block">
+                    <div className="card-body mx-10 mb-3">
                         <p className='font-bold'>Features:</p>
                             <ul class="list-disc ml-10">
                                 <li>User can add review for each items.</li>
