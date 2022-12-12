@@ -17,7 +17,7 @@ const Navbar = () => {
                           onClick={() => openInNewTab('https://docs.google.com/document/d/1aPCzMnBqJgexNyhXSB8KgyfhNToEXQdwlSILr4ze3cA/export?format=pdf')} 
                         className="btn btn-ghost hover:border-b-2 hover:font-bold hover:border-fuchsia-600">Resume</Link>
                     </li>
-                    <li><Link onClick={()=>{openInNewTab('https://form.jotform.com/223434028456454')}} className="btn btn-ghost hover:border-b-2 hover:font-bold hover:border-fuchsia-600">Contact me</Link></li>
+                    <li><Link to='/blogs' className="btn btn-ghost hover:border-b-2 hover:font-bold hover:border-fuchsia-600">Blogs</Link></li>
                 </ul>
             </div>
         </div>

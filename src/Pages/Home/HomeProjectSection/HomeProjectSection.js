@@ -3,10 +3,6 @@ import { Link } from 'react-router-dom';
 
 const HomeProjectSection = () => {
 
-    const openInNewTab = url => {
-        window.open(url, '_blank');
-      };
-
     return (
         <div className='my-10'>
             <div className='mt-10'>
@@ -32,9 +28,8 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                        <Link 
-                        onClick={() => openInNewTab('https://b-sarees.web.app')} 
-                        className="btn">Visit</Link>
+                        <Link to='/' 
+                        className="btn">Explore more</Link>
                     </div>
                 </div>
                 <div className="card bg-base-100 shadow-xl">
@@ -54,9 +49,8 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                        <Link 
-                        onClick={() => openInNewTab('https://doctor-g-7475c.web.app')} 
-                         className="btn">Visit</Link>
+                    <Link to='/' 
+                        className="btn">Explore more</Link>
                     </div>
                 </div>
                 <div className="card bg-base-100 shadow-xl">
@@ -76,9 +70,8 @@ const HomeProjectSection = () => {
                             </ul>
                     </div>
                     <div className='text-center mb-3'>
-                        <Link 
-                        onClick={() => openInNewTab('https://the-brainy-hub.web.app')} 
-                         className="btn">visit</Link>
+                    <Link to='/' 
+                        className="btn">Explore more</Link>
                     </div>
                 </div>
             </div>
